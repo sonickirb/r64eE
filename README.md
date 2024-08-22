@@ -26,4 +26,13 @@ Change the StringValue "webhook"'s Value to your Webhook URL.
 ### THATS IT!
 
 Now you can make your own Robot 64 mod with this, but easier!
-Any feedback, or suggestions you have, feel free to let me know on [TR64](https://discord.gg/tr64)!
+Any feedback, or suggestions you have, feel free to let us know on [TR64](https://discord.gg/tr64)!
+
+You do not have to credit us at all, just make sure you credit zKevin for his incredible work.
+
+# CREDITS
+
+Main Developers, Bloctans and Sonickirb
+Secondary Developer, Ray/Teardrop.
+
+zKevin, for his totally rad game, [Robot 64](https://www.roblox.com/games/1111083356/Robot-64)!
