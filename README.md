@@ -5,7 +5,7 @@ a new and improved Robot 64 Engine modification!
 
 ### SAVING THE MOD TO YOUR ACCOUNT
 
-Save [Robot64EngineExpanded.rbxl]() as a new experience.
+Save [Robot64EngineExpanded.rbxl](mod/Robot64EngineExpanded.rbxl) as a new experience.
 
 ### ENABLING ACCESS TO SAVING, TOKENS AND WEBHOOKS.
 
