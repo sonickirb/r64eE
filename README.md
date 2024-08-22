@@ -32,7 +32,8 @@ You do not have to credit us at all, just make sure you credit zKevin for his in
 
 # CREDITS
 
-Main Developers, Bloctans and Sonickirb
+Main Developers, Bloctans and Sonickirb.
+
 Secondary Developer, Ray/Teardrop.
 
 zKevin, for his totally rad game, [Robot 64](https://www.roblox.com/games/1111083356/Robot-64)!
