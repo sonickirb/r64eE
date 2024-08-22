@@ -17,7 +17,7 @@ Turn on "Allow Third Party Sales", for zKevin's original Token Gamepass IDs.
 
 ### CHANGING THE WEBHOOK URL TO YOUR OWN.
 
-Go to [lewisakura's webhook api](https://webhook.lewisakura.moe/api/webhooks/) and follow their tutorial.
+Go to [lewisakura's webhook api](https://webhook.lewisakura.moe) and follow their tutorial.
 
 Go to ServerScriptService>errorlog>webhook
 
