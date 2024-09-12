@@ -37,4 +37,6 @@ Main Developers, Bloctans and Sonickirb.
 
 Secondary Developer, Ray/Teardrop.
 
+Seesaw Code, mincraft0990
+
 zKevin, for his totally rad game, [Robot 64](https://www.roblox.com/games/1111083356/Robot-64)!
